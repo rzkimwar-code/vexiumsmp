@@ -1,0 +1,2 @@
+# vexiumsmp
+vexiumsmps server info
