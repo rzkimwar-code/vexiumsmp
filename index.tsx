@@ -1,3 +1,4 @@
+<html>
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import block from "@/assets/block.jpg";
@@ -72,3 +73,4 @@ function Index() {
     </div>
   );
 }
+</html>
